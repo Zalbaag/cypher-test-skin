@@ -1,0 +1,8 @@
+{
+  "id": "test-dusk",
+  "name": "Test Dusk",
+  "version": "1.0.0",
+  "author": "Zalbaag",
+  "entry": "tokens.css",
+  "layout": "layout.json"
+}
